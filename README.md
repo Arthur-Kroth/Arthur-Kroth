@@ -15,21 +15,34 @@
 ##
 
 <div align="center">
+
   <a href="https://github.com/Arthur-Kroth">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthur-Kroth&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_rank=true&hide_title=true&hide=prs&custom_title=Estatísticas&hide_border=true&layout=compact"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthur-Kroth&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/Arthur-Kroth">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Kroth&layout=compact&langs_count=6&theme=default&hide_border=true&hide_title=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Kroth&layout=compact&langs_count=7&theme=default"/>
   </a>
+
 </div>
 
 <div align="center">
 
-  <a href="https://github.com/Arthur-Kroth">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Arthur-Kroth&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/Arthur-Kroth">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Kroth&layout=compact&langs_count=7&theme=default"/>
-  </a>
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=Arthur-Kroth&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark"
+      media="(prefers-color-scheme: dark)" />
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=Arthur-Kroth&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&theme=default" 
+      height="180em" />
+  </picture>
+
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Kroth&layout=compact&langs_count=7&theme=github_dark"
+      media="(prefers-color-scheme: dark)" />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Kroth&layout=compact&langs_count=7&theme=default" 
+      height="180em" />
+  </picture>
 
 </div>
