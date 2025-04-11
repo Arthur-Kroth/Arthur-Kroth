@@ -9,8 +9,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthur-Kroth)](https://github.com/Arthur-Kroth/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthur-Kroth&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthur-Kroth&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthur-Kroth&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Kroth&hide_progress=true)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/Arthur-Kroth/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthur-Kroth&show_icons=true&bg_color=00000000)
