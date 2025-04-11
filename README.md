@@ -11,4 +11,3 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthur-Kroth&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Kroth&hide_progress=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthur-Kroth&show_icons=true&bg_color=00000000)
