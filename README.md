@@ -8,7 +8,7 @@
       media="(prefers-color-scheme: dark)" />
     <img 
       src="https://github-readme-stats.vercel.app/api?username=Arthur-Kroth&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&theme=default" 
-      height="180em" />
+      height="165em" />
   </picture>
 
   <picture>
@@ -17,7 +17,7 @@
       media="(prefers-color-scheme: dark)" />
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Kroth&layout=compact&langs_count=7&theme=default" 
-      height="180em" />
+      height="165em" />
   </picture>
 
 </div>
@@ -33,5 +33,4 @@
 <div>
   <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:akposselt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/arthur-k-p-669772351" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
