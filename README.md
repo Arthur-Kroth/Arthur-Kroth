@@ -1,4 +1,4 @@
-## Hi, I'm Arthur Kroth
+## Olá! Eu sou Arthur Kroth
 
 <div align="center">
 
